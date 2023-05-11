@@ -1,0 +1,118 @@
+body{background-image:url("imagenes/fondo.jpg");
+	background-repeat:repeat;
+	background-color:#ff008b;
+	}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+    border: 20px double #000fff;
+	margin:auto;
+	margin-top:40px;
+}
+p{color:white
+}
+
+h1{text-align:center;
+	font-family:Verdana;
+	color:yellow;
+	border:double yellow 20px;
+	margin-left:70px;
+	margin-right:70px;	
+}
+
+
+
+form{color:white;
+	margin:auto;
+	
+}
+
+#h22{text-align:center;
+	border:solid #ff008b 15px
+	
+}
+
+audio{display:block;
+	margin:auto;
+	
+}
+
+details{color:white;
+	font-size: 25px
+	
+}
+
+h3{font-size:20px;
+ font-family:Verdana; 
+ padding-right:510px;
+ text-align:center;
+ color:white;	
+	
+}
+
+  
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.pac-dot {
+    background-color: #bd00ff;   
+    border: 5px solid #f2b4f9;
+    box-sizing: border-box;
+}
+
+.wall {
+    background-color: #ff008b;
+}
+
+.power-pellet {
+    background-color: #d800ff;
+    border-radius: 10px;
+}
+
+.blinky {
+    background-color: red;
+}
+
+.pinky {
+    background-color: pink;
+}
+
+.inky {
+    background-color: cyan;
+}
+
+.clyde {
+    background-color: orange;     
+}
+
+.pac-man {
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.scared-ghost {
+    background-color: aquamarine;
+}
+
+h2{
+	color: #ff008b;
+	font-family:Garamond;
+	font-size:40px
+} 
+img{
+	display:block;
+	margin:auto;
+	border-style:double;
+	border-width:20px;
+	border-color:#9DC08B;
+} 
+form{
+	border-style:dashed;
+	border-width:20px;
+	border-color:#609966;
+	padding:50px;
+}
